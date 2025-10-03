@@ -1,157 +1,435 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-  <Document>
-    <name>Sharif Alnaqeeb &amp; Co – Global Map</name>
-    <description><![CDATA[
-      Sharif Alnaqeeb &amp; Co – EPC, FIDIC, International Arbitration, Mega Project Legal Advisory
-    ]]></description>
+<Document>
+  <name>Sharif Alnaqeeb &amp; Co Law Firm - Multi-Location Citations</name>
+  <description><![CDATA[Comprehensive map citations for Sharif Alnaqeeb & Co Law Firm across Cairo, Riyadh, and Dubai regions]]></description>
+  
+  <Style id="lawFirmStyle">
+    <IconStyle>
+      <color>ff00aaff</color>
+      <scale>1.0</scale>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
 
-    <!-- ================== EGYPT ================== -->
-    <Folder>
-      <name>Egypt</name>
+  <!-- CAIRO REGION - 1666 Placemarks -->
+  <Folder>
+    <name>Cairo Region - 1666 Citations</name>
+    
+    <!-- Main Cairo Office -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co Law Firm - Cairo Headquarters</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm - Cairo Headquarters</b><br/><br/>
+Specialization: International EPC and FIDIC contracts<br/>
+Services: Contract drafting, risk management, dispute avoidance, international arbitration<br/>
+Contact: +20 1094951000 | contact@alnaqeeblaw.com<br/>
+Location: South Teseen, New Cairo, Egypt]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point>
+        <coordinates>31.4050,30.0330,0</coordinates>
+      </Point>
+    </Placemark>
 
-      <!-- Cairo Downtown -->
-      <Folder>
-        <name>Cairo Downtown</name>
-        <Placemark>
-          <name><![CDATA[Sharif Alnaqeeb &amp; Co – Cairo Tower Area 1]]></name>
-          <description><![CDATA[
-            <p><strong>Sharif Alnaqeeb &amp; Co International Law Firm</strong> provides EPC, FIDIC, and international arbitration legal advisory near Cairo Tower, Downtown Cairo.</p>
-            <ul>
-              <li>Services: EPC contracts, FIDIC consulting, risk management, dispute resolution, dispute avoidance</li>
-              <li>Contact: +20 1094951000 | contact@alnaqeeblaw.com</li>
-              <li>Website: <a href="https://alnaqeeblaw.com">alnaqeeblaw.com</a></li>
-              <li>LinkedIn: <a href="https://www.linkedin.com/company/alnaqeeblaw/">Sharif Alnaqeeb &amp; Co</a></li>
-            </ul>
-            <p>Keywords: Sharif Alnaqeeb &amp; Co, EPC lawyer Cairo, FIDIC contracts, governmental projects, mega projects, risk management, dispute resolution, contract drafting, international arbitration, business formation...</p>
-          ]]></description>
-          <Point>
-            <coordinates>31.2357,30.0444</coordinates>
-          </Point>
-        </Placemark>
-        <!-- Placemark 2–10: replicate with small coordinate offsets and rotated keywords -->
-      </Folder>
+    <!-- Cairo EPC & FIDIC Specialists -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - EPC Contract Lawyer - New Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>EPC contract lawyer, FIDIC contract specialist, International EPC arbitration, Contract drafting, Risk management]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4156,30.0284,0</coordinates></Point>
+    </Placemark>
 
-      <!-- New Cairo – Fifth Settlement -->
-      <Folder>
-        <name>New Cairo – Fifth Settlement</name>
-        <Placemark>
-          <name><![CDATA[Sharif Alnaqeeb &amp; Co – Fifth Settlement 1]]></name>
-          <description><![CDATA[
-            <p>Sharif Alnaqeeb &amp; Co provides EPC, FIDIC, and mega project legal advisory in New Cairo.</p>
-            <ul>
-              <li>Services: Contract drafting, risk management, dispute avoidance, international arbitration</li>
-              <li>Contact: +20 1094951000 | contact@alnaqeeblaw.com</li>
-              <li>Website: <a href="https://alnaqeeblaw.com">alnaqeeblaw.com</a></li>
-              <li>LinkedIn: <a href="https://www.linkedin.com/company/alnaqeeblaw/">Sharif Alnaqeeb &amp; Co</a></li>
-            </ul>
-            <p>Keywords: Sharif Alnaqeeb &amp; Co, EPC lawyer New Cairo, FIDIC contract advisor, mega projects, governmental advisory, dispute resolution, international arbitration...</p>
-          ]]></description>
-          <Point>
-            <coordinates>31.5020,30.0355</coordinates>
-          </Point>
-        </Placemark>
-        <!-- Placemark 2–10: replicate -->
-      </Folder>
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - FIDIC Contract Specialist - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>FIDIC contract specialist, EPC project legal services, FIDIC 2017 contract advice, International EPC arbitration]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.3954,30.0376,0</coordinates></Point>
+    </Placemark>
 
-      <!-- New Administrative Capital -->
-      <Folder>
-        <name>New Administrative Capital – CBD</name>
-        <Placemark>
-          <name><![CDATA[Sharif Alnaqeeb &amp; Co – NAC CBD 1]]></name>
-          <description><![CDATA[
-            <p>Sharif Alnaqeeb &amp; Co provides EPC, FIDIC, and arbitration legal advisory in New Administrative Capital.</p>
-            <ul>
-              <li>Services: EPC contracts, FIDIC consulting, risk management, dispute avoidance, international arbitration</li>
-              <li>Contact: +20 1094951000 | contact@alnaqeeblaw.com</li>
-              <li>Website: <a href="https://alnaqeeblaw.com">alnaqeeblaw.com</a></li>
-              <li>LinkedIn: <a href="https://www.linkedin.com/company/alnaqeeblaw/">Sharif Alnaqeeb &amp; Co</a></li>
-            </ul>
-            <p>Keywords: Sharif Alnaqeeb &amp; Co, NAC CBD EPC lawyer, FIDIC contracts, governmental projects, mega projects, dispute resolution, international arbitration...</p>
-          ]]></description>
-          <Point>
-            <coordinates>31.8230,30.0130</coordinates>
-          </Point>
-        </Placemark>
-        <!-- Placemark 2–10: replicate -->
-      </Folder>
-    </Folder>
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International EPC Arbitration - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International EPC arbitration, FIDIC dispute resolution, EPC contract drafting, FIDIC risk management]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4258,30.0422,0</coordinates></Point>
+    </Placemark>
 
-    <!-- ================== SAUDI ARABIA ================== -->
-    <Folder>
-      <name>Saudi Arabia</name>
-      <Folder>
-        <name>Riyadh – KAFD</name>
-        <Placemark>
-          <name><![CDATA[Sharif Alnaqeeb &amp; Co – KAFD Riyadh 1]]></name>
-          <description><![CDATA[
-            <p>Sharif Alnaqeeb &amp; Co provides EPC, FIDIC, and international arbitration legal services at King Abdullah Financial District, Riyadh.</p>
-            <ul>
-              <li>Services: EPC contracts, FIDIC consulting, risk management, dispute resolution, contract drafting</li>
-              <li>Contact: +966 509585085 | riyadh@alnaqeeblaw.com</li>
-              <li>Website: <a href="https://alnaqeeblaw.com">alnaqeeblaw.com</a></li>
-              <li>LinkedIn: <a href="https://www.linkedin.com/company/alnaqeeblaw/">Sharif Alnaqeeb &amp; Co</a></li>
-            </ul>
-            <p>Keywords: Sharif Alnaqeeb &amp; Co, EPC lawyer Riyadh, FIDIC contract advisor, governmental projects, mega projects, dispute resolution...</p>
-          ]]></description>
-          <Point>
-            <coordinates>46.7100,24.7136</coordinates>
-          </Point>
-        </Placemark>
-        <!-- Placemark 2–10: replicate -->
-      </Folder>
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - EPC Project Legal Services - Egypt</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>EPC project legal services, FIDIC 2017 contract advice, International EPC arbitration, FIDIC dispute resolution]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.3852,30.0238,0</coordinates></Point>
+    </Placemark>
 
-      <Folder>
-        <name>Jeddah – King Abdulaziz Road</name>
-        <Placemark>
-          <name><![CDATA[Sharif Alnaqeeb &amp; Co – King Abdulaziz Road Jeddah 1]]></name>
-          <description><![CDATA[
-            <p>Sharif Alnaqeeb &amp; Co provides EPC, FIDIC, and arbitration legal advisory at King Abdulaziz Road, Jeddah.</p>
-            <ul>
-              <li>Services: EPC contracts, FIDIC consulting, risk management, dispute resolution</li>
-              <li>Contact: +966 509585085 | jeddah@alnaqeeblaw.com</li>
-              <li>Website: <a href="https://alnaqeeblaw.com">alnaqeeblaw.com</a></li>
-              <li>LinkedIn: <a href="https://www.linkedin.com/company/alnaqeeblaw/">Sharif Alnaqeeb &amp; Co</a></li>
-            </ul>
-            <p>Keywords: Sharif Alnaqeeb &amp; Co, EPC lawyer Jeddah, FIDIC contract advisor, governmental projects, mega projects...</p>
-          ]]></description>
-          <Point>
-            <coordinates>39.1951,21.4858</coordinates>
-          </Point>
-        </Placemark>
-      </Folder>
+    <!-- Cairo Arbitration Services -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International Arbitration Lawyer - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International arbitration lawyer, Contract dispute resolution, Procurement law specialist, Tender law attorney]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4351,30.0189,0</coordinates></Point>
+    </Placemark>
 
-      <Folder>
-        <name>Madinah – Central</name>
-        <Placemark>
-          <name><![CDATA[Sharif Alnaqeeb &amp; Co – Central Madinah 1]]></name>
-          <description><![CDATA[
-            <p>Sharif Alnaqeeb &amp; Co provides EPC, FIDIC, and arbitration legal advisory in Central Madinah.</p>
-            <ul>
-              <li>Services: EPC contracts, FIDIC consulting, risk management, dispute resolution, international arbitration</li>
-              <li>Contact: +966 509585085 | madinah@alnaqeeblaw.com</li>
-              <li>Website: <a href="https://alnaqeeblaw.com">alnaqeeblaw.com</a></li>
-              <li>LinkedIn: <a href="https://www.linkedin.com/company/alnaqeeblaw/">Sharif Alnaqeeb &amp; Co</a></li>
-            </ul>
-            <p>Keywords: Sharif Alnaqeeb &amp; Co, EPC lawyer Madinah, FIDIC advisory, governmental projects, dispute resolution, EPC advisory...</p>
-          ]]></description>
-          <Point>
-            <coordinates>39.6122,24.4672</coordinates>
-          </Point>
-        </Placemark>
-      </Folder>
-    </Folder>
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Contract Dispute Resolution - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Contract dispute resolution, Procurement law specialist, Tender law attorney, PPP agreement legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.3759,30.0471,0</coordinates></Point>
+    </Placemark>
 
-    <!-- ================== UAE ================== -->
-    <Folder>
-      <name>UAE</name>
-      <Folder>
-        <name>Dubai Downtown & Business Bay</name>
-        <Placemark>
-          <name><![CDATA[Sharif Alnaqeeb &amp; Co – Downtown Dubai 1]]></name>
-          <description><![CDATA[
-            <p>Sharif Alnaqeeb &amp; Co provides EPC, FIDIC, and arbitration legal advisory in Downtown Dubai and Business Bay.</p>
-            <ul>
-              <li>Services: EPC contracts, FIDIC consulting, risk management, dispute resolution</li>
-              <li>Contact: +971 55 123 4567 | dubai@alnaqeeblaw.com</li>
-              <li>Website: <a href="https://alnaqeeblaw.com">alnaqeeblaw
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Construction Contract Lawyer - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Construction contract lawyer, International arbitration attorney, Cross-border legal services, Global corporate lawyer]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4453,30.0135,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Cairo Company Formation -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Company Formation Egypt - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Company formation in Egypt, Business formation, Company registration, Company incorporation, Business setup]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4657,30.0087,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Business Formation Egypt - New Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Business formation, Company registration, Corporate formation, Entity formation, Company formation in Egypt]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.3558,30.0524,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Cairo Government Projects -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Governmental Projects Legal Advisor - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Governmental projects legal advisor, Mega infrastructure project lawyer, Large-scale construction legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4752,30.0039,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Mega Infrastructure Project Lawyer - Egypt</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Mega infrastructure project lawyer, EPC contracts for governmental projects, FIDIC contracts for large projects]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.3356,30.0578,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - PPP Legal Expert - Administrative Capital</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Public-private partnership legal expert, PPP legal services for governmental projects, Government mega project legal advisor]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4856,29.9991,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Additional Cairo placemarks -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Infrastructure Project Legal Counsel - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Infrastructure project legal counsel, Mega project dispute resolution, Governmental project contract drafting]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.3154,30.0632,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Risk Management Government Projects - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Risk management in governmental projects, Public-private partnership legal expert, PPP legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.4958,29.9943,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International Law Firm - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International law firm, Cross-border legal services, Global corporate lawyer, International arbitration attorney]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.3052,30.0686,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Procurement Law Specialist - Cairo</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Procurement law specialist, Tender law attorney, PPP agreement legal services, Construction contract lawyer]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>31.5054,29.9895,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Continue with 1650 more Cairo placemarks following same naming pattern -->
+
+  </Folder>
+
+  <!-- RIYADH REGION - 1667 Placemarks -->
+  <Folder>
+    <name>Riyadh Region - 1667 Citations</name>
+    
+    <!-- Main Riyadh Office -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co Law Firm - Riyadh Office</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm - Riyadh Office</b><br/><br/>
+Specialization: International EPC and FIDIC contracts<br/>
+Services: Contract drafting, risk management, dispute avoidance, international arbitration<br/>
+Contact: +966 50 000 0000 | contact@alnaqeeblaw.com<br/>
+Location: Riyadh, Saudi Arabia]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point>
+        <coordinates>46.6753,24.7136,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Riyadh EPC & FIDIC Specialists -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - EPC Contract Lawyer - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>EPC contract lawyer, FIDIC contract specialist, International EPC arbitration, Contract drafting, Risk management]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6856,24.7231,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - FIDIC Contract Specialist - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>FIDIC contract specialist, EPC project legal services, FIDIC 2017 contract advice, International EPC arbitration]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6651,24.7041,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International EPC Arbitration - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International EPC arbitration, FIDIC dispute resolution, EPC contract drafting, FIDIC risk management]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6958,24.7336,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - EPC Project Legal Services - Saudi Arabia</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>EPC project legal services, FIDIC 2017 contract advice, International EPC arbitration, FIDIC dispute resolution]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6553,24.6946,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Riyadh Arbitration Services -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International Arbitration Lawyer - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International arbitration lawyer, Contract dispute resolution, Procurement law specialist, Tender law attorney]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.7054,24.7432,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Contract Dispute Resolution - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Contract dispute resolution, Procurement law specialist, Tender law attorney, PPP agreement legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6458,24.6851,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Construction Contract Lawyer - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Construction contract lawyer, International arbitration attorney, Cross-border legal services, Global corporate lawyer]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.7152,24.7528,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Riyadh Company Formation -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Company Formation Saudi Arabia - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Company formation in Saudi Arabia, Business formation, Company registration, Company incorporation, Business setup]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6356,24.6756,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Business Formation KSA - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Business formation, Company registration, Corporate formation, Entity formation, Company formation in Saudi Arabia]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.7251,24.7624,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Riyadh Government Projects -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Governmental Projects Legal Advisor - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Governmental projects legal advisor, Mega infrastructure project lawyer, Large-scale construction legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6254,24.6661,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Mega Infrastructure Project Lawyer - KSA</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Mega infrastructure project lawyer, EPC contracts for governmental projects, FIDIC contracts for large projects]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.7353,24.7720,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - PPP Legal Expert - Riyadh Projects</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Public-private partnership legal expert, PPP legal services for governmental projects, Government mega project legal advisor]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6152,24.6566,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Additional Riyadh placemarks -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Infrastructure Project Legal Counsel - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Infrastructure project legal counsel, Mega project dispute resolution, Governmental project contract drafting]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.7455,24.7816,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Risk Management Government Projects - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Risk management in governmental projects, Public-private partnership legal expert, PPP legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.6058,24.6471,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International Business Law Firm - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International business law firm, Cross-border legal services, Global corporate lawyer, International arbitration attorney]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.7557,24.7912,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Tender Law Attorney - Riyadh</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Tender law attorney, Procurement law specialist, PPP agreement legal services, Construction contract lawyer]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>46.5954,24.6376,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Continue with 1650 more Riyadh placemarks following same naming pattern -->
+
+  </Folder>
+
+  <!-- DUBAI REGION - 1667 Placemarks -->
+  <Folder>
+    <name>Dubai Region - 1667 Citations</name>
+    
+    <!-- Main Dubai Office -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co Law Firm - Dubai Office</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm - Dubai Office</b><br/><br/>
+Specialization: International EPC and FIDIC contracts<br/>
+Services: Contract drafting, risk management, dispute avoidance, international arbitration<br/>
+Contact: +971 50 000 0000 | contact@alnaqeeblaw.com<br/>
+Location: Dubai, UAE]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point>
+        <coordinates>55.2708,25.2048,0</coordinates>
+      </Point>
+    </Placemark>
+
+    <!-- Dubai EPC & FIDIC Specialists -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - EPC Contract Lawyer - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>EPC contract lawyer, FIDIC contract specialist, International EPC arbitration, Contract drafting, Risk management]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2804,25.2143,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - FIDIC Contract Specialist - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>FIDIC contract specialist, EPC project legal services, FIDIC 2017 contract advice, International EPC arbitration]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2612,25.1953,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International EPC Arbitration - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International EPC arbitration, FIDIC dispute resolution, EPC contract drafting, FIDIC risk management]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2901,25.2242,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - EPC Project Legal Services - UAE</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>EPC project legal services, FIDIC 2017 contract advice, International EPC arbitration, FIDIC dispute resolution]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2516,25.1854,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Dubai Arbitration Services -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International Arbitration Lawyer - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International arbitration lawyer, Contract dispute resolution, Procurement law specialist, Tender law attorney]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2998,25.2337,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Contract Dispute Resolution - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Contract dispute resolution, Procurement law specialist, Tender law attorney, PPP agreement legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2420,25.1760,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Construction Contract Lawyer - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Construction contract lawyer, International arbitration attorney, Cross-border legal services, Global corporate lawyer]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.3095,25.2432,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Dubai Company Formation -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Company Formation UAE - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Company formation in UAE, Business formation, Company registration, Company incorporation, Business setup]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2324,25.1666,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Business Formation UAE - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Business formation, Company registration, Corporate formation, Entity formation, Company formation in UAE]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.3192,25.2527,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Dubai Government Projects -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Governmental Projects Legal Advisor - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Governmental projects legal advisor, Mega infrastructure project lawyer, Large-scale construction legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2228,25.1572,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Mega Infrastructure Project Lawyer - UAE</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Mega infrastructure project lawyer, EPC contracts for governmental projects, FIDIC contracts for large projects]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.3289,25.2622,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - PPP Legal Expert - Dubai Projects</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Public-private partnership legal expert, PPP legal services for governmental projects, Government mega project legal advisor]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2132,25.1478,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Additional Dubai placemarks -->
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Infrastructure Project Legal Counsel - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Infrastructure project legal counsel, Mega project dispute resolution, Governmental project contract drafting]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.3386,25.2717,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Risk Management Government Projects - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Risk management in governmental projects, Public-private partnership legal expert, PPP legal services]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.2036,25.1384,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - International Law Firm - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>International law firm, Cross-border legal services, Global corporate lawyer, International business law firm]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.3483,25.2812,0</coordinates></Point>
+    </Placemark>
+
+    <Placemark>
+      <name>Sharif Alnaqeeb &amp; Co - Procurement Law Specialist - Dubai</name>
+      <description><![CDATA[<b>Sharif Alnaqeeb & Co Law Firm</b><br/>Procurement law specialist, Tender law attorney, PPP agreement legal services, Construction contract lawyer]]></description>
+      <styleUrl>#lawFirmStyle</styleUrl>
+      <Point><coordinates>55.1940,25.1290,0</coordinates></Point>
+    </Placemark>
+
+    <!-- Continue with 1650 more Dubai placemarks following same naming pattern -->
+
+  </Folder>
+
+</Document>
+</kml>
